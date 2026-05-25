@@ -1,7 +1,4 @@
-# Practical_13_Part2 — Project Structure
-
-Target: .NET Framework 4.7.2  
-This is an ASP.NET MVC application for managing `Employee` and `Designation` records. Below is a concise description of the project structure and the responsibility of each file included in the workspace.
+# Practical 13 Part 2 — Project Structure
 
 ## Top-level folders & purpose
 - `Controllers/` — MVC controllers: handle requests, coordinate services/repositories, and return views or redirects.
