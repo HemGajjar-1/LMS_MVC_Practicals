@@ -1,4 +1,4 @@
-# Practical_14 — Project Structure
+# Practical 14 — Project Structure
 
 This README describes the project layout and the purpose of each file present in the workspace. The application is a simple ASP.NET MVC (targeting .NET Framework 4.7.2) CRUD and list UI for `Employee` records with paging and search.
 
