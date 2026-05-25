@@ -1,0 +1,18 @@
+﻿@model List<Practical_12_Test_3.Models.DTOs.DesignationDto>
+
+<h2>Designations Having More Than One Employee</h2>
+
+<table class="table table-bordered">
+
+    <tr>
+        <th>Designation</th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>@item.Designation</td>
+        </tr>
+    }
+
+</table>

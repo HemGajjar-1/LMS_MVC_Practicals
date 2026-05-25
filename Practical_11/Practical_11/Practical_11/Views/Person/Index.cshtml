@@ -1,0 +1,55 @@
+﻿
+@{
+    ViewBag.Title = "Index";
+}
+@model List<Practical_11.Models.Entity.Person>
+<h2 class="text-center mt-4 mb-4">Person List</h2>
+
+<p class="mb-3">
+    @Html.ActionLink(
+        "Create New",
+        "Create",
+        null,
+        new { @class = "btn btn-dark" })
+</p>
+
+<table class="table table-bordered table-striped table-hover shadow">
+
+    <tr class="table-dark">
+        <th>Id</th>
+        <th>Name</th>
+        <th>DOB</th>
+        <th>Address</th>
+        <th>Actions</th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+
+            <td>@item.Id</td>
+
+            <td>@item.Name</td>
+
+            <td>@item.DOB</td>
+
+            <td>@item.Address</td>
+
+            <td>
+                @Html.ActionLink(
+                    "Edit",
+                    "Edit",
+                    new { id = item.Id },
+                    new { @class = "btn btn-dark btn-sm me-2" })
+
+                @Html.ActionLink(
+                    "Delete",
+                    "Delete",
+                    new { id = item.Id },
+                    new { @class = "btn btn-dark btn-sm" })
+            </td>
+
+        </tr>
+    }
+
+</table>

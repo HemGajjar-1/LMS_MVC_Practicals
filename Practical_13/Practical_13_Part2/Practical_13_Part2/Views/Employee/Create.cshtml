@@ -1,0 +1,127 @@
+﻿@model Practical_13_Part2.Models.DTOs.EmployeeFormDto
+
+@{
+    ViewBag.Title = "Create Employee";
+}
+
+<div class="container mt-5">
+    <div class="card border-0 shadow-lg rounded-4 overflow-hidden">
+
+        <div class="bg-dark text-white p-4">
+            <h2 class="mb-0 fw-bold">Create Employee</h2>
+        </div>
+
+        <div class="card-body p-5">
+
+            @using (Html.BeginForm())
+            {
+                <div class="row g-4">
+
+                    <div class="col-md-4">
+                        <label class="form-label fw-semibold">First Name</label>
+
+                        @Html.TextBoxFor(x => x.FirstName,
+                            new
+                            {
+                                @class = "form-control form-control-lg rounded-3"
+                            })
+                    </div>
+
+                    <div class="col-md-4">
+                        <label class="form-label fw-semibold">Middle Name</label>
+
+                        @Html.TextBoxFor(x => x.MiddleName,
+                            new
+                            {
+                                @class = "form-control form-control-lg rounded-3"
+                            })
+                    </div>
+
+                    <div class="col-md-4">
+                        <label class="form-label fw-semibold">Last Name</label>
+
+                        @Html.TextBoxFor(x => x.LastName,
+                            new
+                            {
+                                @class = "form-control form-control-lg rounded-3"
+                            })
+                    </div>
+
+                    <div class="col-md-4">
+                        <label class="form-label fw-semibold">DOB</label>
+
+                        @Html.TextBoxFor(
+                            x => x.DOB,
+                            "{0:yyyy-MM-dd}",
+                            new
+                            {
+                                @class = "form-control form-control-lg rounded-3",
+                                type = "date"
+                            })
+                    </div>
+
+                    <div class="col-md-4">
+                        <label class="form-label fw-semibold">Mobile Number</label>
+
+                        @Html.TextBoxFor(x => x.MobileNumber,
+                            new
+                            {
+                                @class = "form-control form-control-lg rounded-3"
+                            })
+                    </div>
+
+                    <div class="col-md-4">
+                        <label class="form-label fw-semibold">Address</label>
+
+                        @Html.TextAreaFor(x => x.Address,
+                            new
+                            {
+                                @class = "form-control rounded-3",
+                                rows = "3"
+                            })
+                    </div>
+
+                    <div class="col-md-4">
+                        <label class="form-label fw-semibold">Salary</label>
+
+                        @Html.TextBoxFor(x => x.Salary,
+                            new
+                            {
+                                @class = "form-control form-control-lg rounded-3"
+                            })
+                    </div>
+
+                    <div class="col-md-4">
+                        <label class="form-label fw-semibold">Designation</label>
+
+                        @Html.DropDownListFor(
+                            x => x.DesignationId,
+                            Model.DesignationList,
+                            "-- Select Designation --",
+                            new
+                            {
+                                @class = "form-select form-select-lg rounded-3"
+                            })
+                    </div>
+
+                </div>
+
+                <div class="mt-5 d-flex gap-3">
+                    <input type="submit"
+                           value="Save Employee"
+                           class="btn btn-dark btn-lg px-4 rounded-3" />
+
+                    @Html.ActionLink(
+                        "Back to List",
+                        "Index",
+                        null,
+                        new
+                        {
+                            @class = "btn btn-outline-dark btn-lg px-4 rounded-3"
+                        })
+                </div>
+            }
+
+        </div>
+    </div>
+</div>

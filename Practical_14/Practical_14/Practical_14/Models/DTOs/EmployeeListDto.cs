@@ -1,0 +1,16 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Web;
+
+namespace Practical_14.Models.DTOs
+{
+    public class EmployeeListDto
+    {
+        public List<EmployeeDto> Employees { get; set; }
+
+        public int CurrentPage { get; set; }
+
+        public int TotalPages { get; set; }
+    }
+}

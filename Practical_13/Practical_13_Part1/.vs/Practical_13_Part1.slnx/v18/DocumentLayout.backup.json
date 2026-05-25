@@ -1,0 +1,166 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hem.gajjar\\source\\repos\\MVC_Practicals\\Practical_13\\Practical_13_Part1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E2904E30-260B-471B-9A27-A74ADB7A5DEA}|Practical_13_Part1\\Practical_13_Part1.csproj|c:\\users\\hem.gajjar\\source\\repos\\mvc_practicals\\practical_13\\practical_13_part1\\practical_13_part1\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2904E30-260B-471B-9A27-A74ADB7A5DEA}|Practical_13_Part1\\Practical_13_Part1.csproj|solutionrelative:practical_13_part1\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2904E30-260B-471B-9A27-A74ADB7A5DEA}|Practical_13_Part1\\Practical_13_Part1.csproj|C:\\Users\\hem.gajjar\\source\\repos\\MVC_Practicals\\Practical_13\\Practical_13_Part1\\practical_13_part1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E2904E30-260B-471B-9A27-A74ADB7A5DEA}|Practical_13_Part1\\Practical_13_Part1.csproj|solutionrelative:practical_13_part1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2904E30-260B-471B-9A27-A74ADB7A5DEA}|Practical_13_Part1\\Practical_13_Part1.csproj|C:\\Users\\hem.gajjar\\source\\repos\\MVC_Practicals\\Practical_13\\Practical_13_Part1\\practical_13_part1\\views\\employee\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E2904E30-260B-471B-9A27-A74ADB7A5DEA}|Practical_13_Part1\\Practical_13_Part1.csproj|solutionrelative:practical_13_part1\\views\\employee\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2904E30-260B-471B-9A27-A74ADB7A5DEA}|Practical_13_Part1\\Practical_13_Part1.csproj|C:\\Users\\hem.gajjar\\source\\repos\\MVC_Practicals\\Practical_13\\Practical_13_Part1\\practical_13_part1\\views\\employee\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E2904E30-260B-471B-9A27-A74ADB7A5DEA}|Practical_13_Part1\\Practical_13_Part1.csproj|solutionrelative:practical_13_part1\\views\\employee\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2904E30-260B-471B-9A27-A74ADB7A5DEA}|Practical_13_Part1\\Practical_13_Part1.csproj|C:\\Users\\hem.gajjar\\source\\repos\\MVC_Practicals\\Practical_13\\Practical_13_Part1\\practical_13_part1\\views\\employee\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E2904E30-260B-471B-9A27-A74ADB7A5DEA}|Practical_13_Part1\\Practical_13_Part1.csproj|solutionrelative:practical_13_part1\\views\\employee\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2904E30-260B-471B-9A27-A74ADB7A5DEA}|Practical_13_Part1\\Practical_13_Part1.csproj|C:\\Users\\hem.gajjar\\source\\repos\\MVC_Practicals\\Practical_13\\Practical_13_Part1\\practical_13_part1\\views\\employee\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E2904E30-260B-471B-9A27-A74ADB7A5DEA}|Practical_13_Part1\\Practical_13_Part1.csproj|solutionrelative:practical_13_part1\\views\\employee\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2904E30-260B-471B-9A27-A74ADB7A5DEA}|Practical_13_Part1\\Practical_13_Part1.csproj|C:\\Users\\hem.gajjar\\source\\repos\\MVC_Practicals\\Practical_13\\Practical_13_Part1\\practical_13_part1\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{E2904E30-260B-471B-9A27-A74ADB7A5DEA}|Practical_13_Part1\\Practical_13_Part1.csproj|solutionrelative:practical_13_part1\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2904E30-260B-471B-9A27-A74ADB7A5DEA}|Practical_13_Part1\\Practical_13_Part1.csproj|C:\\Users\\hem.gajjar\\source\\repos\\MVC_Practicals\\Practical_13\\Practical_13_Part1\\practical_13_part1\\migrations\\202605121125160_initialcreate1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2904E30-260B-471B-9A27-A74ADB7A5DEA}|Practical_13_Part1\\Practical_13_Part1.csproj|solutionrelative:practical_13_part1\\migrations\\202605121125160_initialcreate1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2904E30-260B-471B-9A27-A74ADB7A5DEA}|Practical_13_Part1\\Practical_13_Part1.csproj|C:\\Users\\hem.gajjar\\source\\repos\\MVC_Practicals\\Practical_13\\Practical_13_Part1\\practical_13_part1\\migrations\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2904E30-260B-471B-9A27-A74ADB7A5DEA}|Practical_13_Part1\\Practical_13_Part1.csproj|solutionrelative:practical_13_part1\\migrations\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 273,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RouteConfig.cs",
+              "DocumentMoniker": "C:\\Users\\hem.gajjar\\source\\repos\\MVC_Practicals\\Practical_13\\Practical_13_Part1\\Practical_13_Part1\\App_Start\\RouteConfig.cs",
+              "RelativeDocumentMoniker": "Practical_13_Part1\\App_Start\\RouteConfig.cs",
+              "ToolTip": "C:\\Users\\hem.gajjar\\source\\repos\\MVC_Practicals\\Practical_13\\Practical_13_Part1\\Practical_13_Part1\\App_Start\\RouteConfig.cs",
+              "RelativeToolTip": "Practical_13_Part1\\App_Start\\RouteConfig.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAwAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T11:39:46.928Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\hem.gajjar\\source\\repos\\MVC_Practicals\\Practical_13\\Practical_13_Part1\\Practical_13_Part1\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Practical_13_Part1\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\hem.gajjar\\source\\repos\\MVC_Practicals\\Practical_13\\Practical_13_Part1\\Practical_13_Part1\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Practical_13_Part1\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-12T11:38:10.066Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\hem.gajjar\\source\\repos\\MVC_Practicals\\Practical_13\\Practical_13_Part1\\Practical_13_Part1\\Views\\Employee\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Practical_13_Part1\\Views\\Employee\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\hem.gajjar\\source\\repos\\MVC_Practicals\\Practical_13\\Practical_13_Part1\\Practical_13_Part1\\Views\\Employee\\Edit.cshtml",
+              "RelativeToolTip": "Practical_13_Part1\\Views\\Employee\\Edit.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-12T11:34:34.055Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\hem.gajjar\\source\\repos\\MVC_Practicals\\Practical_13\\Practical_13_Part1\\Practical_13_Part1\\Views\\Employee\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Practical_13_Part1\\Views\\Employee\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\hem.gajjar\\source\\repos\\MVC_Practicals\\Practical_13\\Practical_13_Part1\\Practical_13_Part1\\Views\\Employee\\Delete.cshtml",
+              "RelativeToolTip": "Practical_13_Part1\\Views\\Employee\\Delete.cshtml",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAwAwAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-12T11:34:10.446Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\hem.gajjar\\source\\repos\\MVC_Practicals\\Practical_13\\Practical_13_Part1\\Practical_13_Part1\\Views\\Employee\\Index.cshtml",
+              "RelativeDocumentMoniker": "Practical_13_Part1\\Views\\Employee\\Index.cshtml",
+              "ToolTip": "C:\\Users\\hem.gajjar\\source\\repos\\MVC_Practicals\\Practical_13\\Practical_13_Part1\\Practical_13_Part1\\Views\\Employee\\Index.cshtml",
+              "RelativeToolTip": "Practical_13_Part1\\Views\\Employee\\Index.cshtml",
+              "ViewState": "AgIAADMAAAAAAAAAAAAAAEoAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-12T11:32:48.384Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\hem.gajjar\\source\\repos\\MVC_Practicals\\Practical_13\\Practical_13_Part1\\Practical_13_Part1\\Web.config",
+              "RelativeDocumentMoniker": "Practical_13_Part1\\Web.config",
+              "ToolTip": "C:\\Users\\hem.gajjar\\source\\repos\\MVC_Practicals\\Practical_13\\Practical_13_Part1\\Practical_13_Part1\\Web.config",
+              "RelativeToolTip": "Practical_13_Part1\\Web.config",
+              "ViewState": "AgIAADwAAAAAAAAAAAAAAEsAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2026-05-12T11:27:09.017Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "202605121125160_InitialCreate1.cs",
+              "DocumentMoniker": "C:\\Users\\hem.gajjar\\source\\repos\\MVC_Practicals\\Practical_13\\Practical_13_Part1\\Practical_13_Part1\\Migrations\\202605121125160_InitialCreate1.cs",
+              "RelativeDocumentMoniker": "Practical_13_Part1\\Migrations\\202605121125160_InitialCreate1.cs",
+              "ToolTip": "C:\\Users\\hem.gajjar\\source\\repos\\MVC_Practicals\\Practical_13\\Practical_13_Part1\\Practical_13_Part1\\Migrations\\202605121125160_InitialCreate1.cs",
+              "RelativeToolTip": "Practical_13_Part1\\Migrations\\202605121125160_InitialCreate1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T11:25:20.689Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Configuration.cs",
+              "DocumentMoniker": "C:\\Users\\hem.gajjar\\source\\repos\\MVC_Practicals\\Practical_13\\Practical_13_Part1\\Practical_13_Part1\\Migrations\\Configuration.cs",
+              "RelativeDocumentMoniker": "Practical_13_Part1\\Migrations\\Configuration.cs",
+              "ToolTip": "C:\\Users\\hem.gajjar\\source\\repos\\MVC_Practicals\\Practical_13\\Practical_13_Part1\\Practical_13_Part1\\Migrations\\Configuration.cs",
+              "RelativeToolTip": "Practical_13_Part1\\Migrations\\Configuration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T11:25:04.224Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\hem.gajjar\\source\\repos\\MVC_Practicals\\Practical_13\\Practical_13_Part1\\Practical_13_Part1\\Views\\Employee\\Create.cshtml",
+              "RelativeDocumentMoniker": "Practical_13_Part1\\Views\\Employee\\Create.cshtml",
+              "ToolTip": "C:\\Users\\hem.gajjar\\source\\repos\\MVC_Practicals\\Practical_13\\Practical_13_Part1\\Practical_13_Part1\\Views\\Employee\\Create.cshtml",
+              "RelativeToolTip": "Practical_13_Part1\\Views\\Employee\\Create.cshtml",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAAEYAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-12T11:21:22.354Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+﻿@model List<Practical_12_Test_3.Models.DTOs.DesignationCountDto>
+
+<h2>Designation Wise Employee Count</h2>
+
+<table class="table table-bordered">
+
+    <tr>
+        <th>Designation</th>
+        <th>Employee Count</th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>@item.Designation</td>
+            <td>@item.EmployeeCount</td>
+        </tr>
+    }
+
+</table>

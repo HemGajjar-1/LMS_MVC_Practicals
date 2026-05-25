@@ -1,0 +1,176 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hem.gajjar\\source\\repos\\MVC_Practicals\\Practical_9\\Practical_9\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D2B856A2-5AC2-4A90-944C-B959D1A6EED3}|Practical_9\\Practical_9.csproj|C:\\Users\\hem.gajjar\\source\\repos\\MVC_Practicals\\Practical_9\\Practical_9\\practical_9\\views\\test2\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D2B856A2-5AC2-4A90-944C-B959D1A6EED3}|Practical_9\\Practical_9.csproj|solutionrelative:practical_9\\views\\test2\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2B856A2-5AC2-4A90-944C-B959D1A6EED3}|Practical_9\\Practical_9.csproj|C:\\Users\\hem.gajjar\\source\\repos\\MVC_Practicals\\Practical_9\\Practical_9\\practical_9\\views\\test1\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D2B856A2-5AC2-4A90-944C-B959D1A6EED3}|Practical_9\\Practical_9.csproj|solutionrelative:practical_9\\views\\test1\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4374E036-D5A3-4EEA-874E-213B9BCD6549}|Practical_9.Tests\\Practical_9.Tests.csproj|C:\\Users\\hem.gajjar\\source\\repos\\MVC_Practicals\\Practical_9\\Practical_9\\practical_9.tests\\test3controllertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4374E036-D5A3-4EEA-874E-213B9BCD6549}|Practical_9.Tests\\Practical_9.Tests.csproj|solutionrelative:practical_9.tests\\test3controllertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2B856A2-5AC2-4A90-944C-B959D1A6EED3}|Practical_9\\Practical_9.csproj|c:\\users\\hem.gajjar\\source\\repos\\mvc_practicals\\practical_9\\practical_9\\practical_9\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D2B856A2-5AC2-4A90-944C-B959D1A6EED3}|Practical_9\\Practical_9.csproj|solutionrelative:practical_9\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2B856A2-5AC2-4A90-944C-B959D1A6EED3}|Practical_9\\Practical_9.csproj|c:\\users\\hem.gajjar\\source\\repos\\mvc_practicals\\practical_9\\practical_9\\practical_9\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D2B856A2-5AC2-4A90-944C-B959D1A6EED3}|Practical_9\\Practical_9.csproj|solutionrelative:practical_9\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2B856A2-5AC2-4A90-944C-B959D1A6EED3}|Practical_9\\Practical_9.csproj|c:\\users\\hem.gajjar\\source\\repos\\mvc_practicals\\practical_9\\practical_9\\practical_9\\views\\test3\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D2B856A2-5AC2-4A90-944C-B959D1A6EED3}|Practical_9\\Practical_9.csproj|solutionrelative:practical_9\\views\\test3\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4374E036-D5A3-4EEA-874E-213B9BCD6549}|Practical_9.Tests\\Practical_9.Tests.csproj|C:\\Users\\hem.gajjar\\source\\repos\\MVC_Practicals\\Practical_9\\Practical_9\\practical_9.tests\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4374E036-D5A3-4EEA-874E-213B9BCD6549}|Practical_9.Tests\\Practical_9.Tests.csproj|solutionrelative:practical_9.tests\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2B856A2-5AC2-4A90-944C-B959D1A6EED3}|Practical_9\\Practical_9.csproj|C:\\Users\\hem.gajjar\\source\\repos\\MVC_Practicals\\Practical_9\\Practical_9\\practical_9\\controllers\\test3controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2B856A2-5AC2-4A90-944C-B959D1A6EED3}|Practical_9\\Practical_9.csproj|solutionrelative:practical_9\\controllers\\test3controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2B856A2-5AC2-4A90-944C-B959D1A6EED3}|Practical_9\\Practical_9.csproj|C:\\Users\\hem.gajjar\\source\\repos\\MVC_Practicals\\Practical_9\\Practical_9\\practical_9\\scripts\\myscript.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{D2B856A2-5AC2-4A90-944C-B959D1A6EED3}|Practical_9\\Practical_9.csproj|solutionrelative:practical_9\\scripts\\myscript.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 273,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\hem.gajjar\\source\\repos\\MVC_Practicals\\Practical_9\\Practical_9\\Practical_9\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Practical_9\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\hem.gajjar\\source\\repos\\MVC_Practicals\\Practical_9\\Practical_9\\Practical_9\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Practical_9\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-12T04:28:43.825Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\hem.gajjar\\source\\repos\\MVC_Practicals\\Practical_9\\Practical_9\\Practical_9\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Practical_9\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\hem.gajjar\\source\\repos\\MVC_Practicals\\Practical_9\\Practical_9\\Practical_9\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Practical_9\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-11T11:31:57.73Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Test3ControllerTests.cs",
+              "DocumentMoniker": "C:\\Users\\hem.gajjar\\source\\repos\\MVC_Practicals\\Practical_9\\Practical_9\\Practical_9.Tests\\Test3ControllerTests.cs",
+              "RelativeDocumentMoniker": "Practical_9.Tests\\Test3ControllerTests.cs",
+              "ToolTip": "C:\\Users\\hem.gajjar\\source\\repos\\MVC_Practicals\\Practical_9\\Practical_9\\Practical_9.Tests\\Test3ControllerTests.cs",
+              "RelativeToolTip": "Practical_9.Tests\\Test3ControllerTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-11T10:45:22.564Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\hem.gajjar\\source\\repos\\MVC_Practicals\\Practical_9\\Practical_9\\Practical_9.Tests\\Class1.cs",
+              "RelativeDocumentMoniker": "Practical_9.Tests\\Class1.cs",
+              "ToolTip": "C:\\Users\\hem.gajjar\\source\\repos\\MVC_Practicals\\Practical_9\\Practical_9\\Practical_9.Tests\\Class1.cs",
+              "RelativeToolTip": "Practical_9.Tests\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-11T10:43:46.312Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\hem.gajjar\\source\\repos\\MVC_Practicals\\Practical_9\\Practical_9\\Practical_9\\Views\\Test1\\Index.cshtml",
+              "RelativeDocumentMoniker": "Practical_9\\Views\\Test1\\Index.cshtml",
+              "ToolTip": "C:\\Users\\hem.gajjar\\source\\repos\\MVC_Practicals\\Practical_9\\Practical_9\\Practical_9\\Views\\Test1\\Index.cshtml",
+              "RelativeToolTip": "Practical_9\\Views\\Test1\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-11T09:43:12.245Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\hem.gajjar\\source\\repos\\MVC_Practicals\\Practical_9\\Practical_9\\Practical_9\\Views\\Test2\\Index.cshtml",
+              "RelativeDocumentMoniker": "Practical_9\\Views\\Test2\\Index.cshtml",
+              "ToolTip": "C:\\Users\\hem.gajjar\\source\\repos\\MVC_Practicals\\Practical_9\\Practical_9\\Practical_9\\Views\\Test2\\Index.cshtml",
+              "RelativeToolTip": "Practical_9\\Views\\Test2\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-11T09:42:43.346Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 127,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Test3Controller.cs",
+              "DocumentMoniker": "C:\\Users\\hem.gajjar\\source\\repos\\MVC_Practicals\\Practical_9\\Practical_9\\Practical_9\\Controllers\\Test3Controller.cs",
+              "RelativeDocumentMoniker": "Practical_9\\Controllers\\Test3Controller.cs",
+              "ToolTip": "C:\\Users\\hem.gajjar\\source\\repos\\MVC_Practicals\\Practical_9\\Practical_9\\Practical_9\\Controllers\\Test3Controller.cs",
+              "RelativeToolTip": "Practical_9\\Controllers\\Test3Controller.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-11T10:02:48.414Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\hem.gajjar\\source\\repos\\MVC_Practicals\\Practical_9\\Practical_9\\Practical_9\\Views\\Test3\\Index.cshtml",
+              "RelativeDocumentMoniker": "Practical_9\\Views\\Test3\\Index.cshtml",
+              "ToolTip": "C:\\Users\\hem.gajjar\\source\\repos\\MVC_Practicals\\Practical_9\\Practical_9\\Practical_9\\Views\\Test3\\Index.cshtml",
+              "RelativeToolTip": "Practical_9\\Views\\Test3\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-11T10:02:29.975Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MyScript.js",
+              "DocumentMoniker": "C:\\Users\\hem.gajjar\\source\\repos\\MVC_Practicals\\Practical_9\\Practical_9\\Practical_9\\Scripts\\MyScript.js",
+              "RelativeDocumentMoniker": "Practical_9\\Scripts\\MyScript.js",
+              "ToolTip": "C:\\Users\\hem.gajjar\\source\\repos\\MVC_Practicals\\Practical_9\\Practical_9\\Practical_9\\Scripts\\MyScript.js",
+              "RelativeToolTip": "Practical_9\\Scripts\\MyScript.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-05-11T09:41:27.324Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

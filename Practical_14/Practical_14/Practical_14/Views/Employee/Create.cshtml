@@ -1,0 +1,45 @@
+﻿@model Practical_14.Models.DTOs.EmployeeDto
+
+@{
+    ViewBag.Title = "Create";
+}
+
+<div class="container mt-4">
+    <h2 class="mb-4">Create Employee</h2>
+
+    @using (Html.BeginForm())
+    {
+        <div class="mb-3">
+            <label class="form-label">Name</label>
+            @Html.TextBoxFor(x => x.Name,
+                new { @class = "form-control" })
+        </div>
+
+        <div class="mb-3">
+            <label class="form-label">DOB</label>
+            @Html.TextBoxFor(x => x.DOB,
+                "{0:yyyy-MM-dd}",
+                new
+                {
+                    type = "date",
+                    @class = "form-control"
+                })
+        </div>
+
+        <div class="mb-3">
+            <label class="form-label">Age</label>
+            @Html.TextBoxFor(x => x.Age,
+                new { @class = "form-control" })
+        </div>
+
+        <button type="submit" class="btn btn-dark">
+            Save
+        </button>
+
+        @Html.ActionLink(
+            "Back to List",
+            "Index",
+            null,
+            new { @class = "btn btn-dark ms-2" })
+    }
+</div>

@@ -1,0 +1,106 @@
+﻿@model List<Practical_12_Test_2.Models.Entity.Employee>
+
+<div class="container mt-4">
+
+    <h3 class="text-dark fw-bold border-bottom border-dark pb-2">Employee List</h3>
+
+    <div class="d-flex flex-wrap gap-2 mb-3">
+        @Html.ActionLink("Get Total Salary", "TotalSalary", null, new { @class = "btn btn-outline-dark fw-bold" })
+        @Html.ActionLink("Count MiddleName NULL", "MiddleNameCount", null, new { @class = "btn btn-outline-dark fw-bold" })
+        @Html.ActionLink("DOB < 2000", "BelowDate", null, new { @class = "btn btn-outline-dark fw-bold" })
+        @Html.ActionLink("Home", "Index", null, new { @class = "btn btn-dark fw-bold" })
+    </div>
+
+    @if (ViewBag.TotalSalary != null)
+    {
+        <div class="alert alert-dark rounded-0 border-dark bg-white text-dark py-2 fw-bold mb-2">
+            Total Salary: @ViewBag.TotalSalary
+        </div>
+    }
+
+    @if (ViewBag.MiddleNameCount != null)
+    {
+        <div class="alert alert-dark rounded-0 border-dark bg-white text-dark py-2 fw-bold mb-2">
+            MiddleName NULL Count: @ViewBag.MiddleNameCount
+        </div>
+    }
+
+    <table class="table table-bordered border-dark m-0 mt-3">
+        <thead class="table-dark">
+            <tr>
+                <th>Id</th>
+                <th>First</th>
+                <th>Middle</th>
+                <th>Last</th>
+                <th>DOB</th>
+                <th>Mobile</th>
+                <th>Address</th>
+                <th>Salary</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>@item.Id</td>
+                    <td>@item.FirstName</td>
+                    <td>@(item.MiddleName ?? "-")</td>
+                    <td>@item.LastName</td>
+                    <td>@item.DOB.ToShortDateString()</td>
+                    <td>@item.MobileNumber</td>
+                    <td>@(item.Address ?? "-")</td>
+                    <td>@item.Salary</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+
+    <br /><br />
+
+    <h3 class="text-dark fw-bold border-bottom border-dark pb-2">Add Employee</h3>
+
+    @using (Html.BeginForm("Create", "Employee", FormMethod.Post))
+    {
+        @Html.ValidationSummary(true, "", new { @class = "text-danger mb-3" })
+
+        <div class="row g-3">
+            <div class="col-md-4">
+                <label class="form-label fw-bold">First Name</label>
+                @Html.TextBox("FirstName", null, new { @class = "form-control border-dark" })
+                @Html.ValidationMessage("FirstName", "", new { @class = "text-danger small" })
+            </div>
+            <div class="col-md-4">
+                <label class="form-label fw-bold">Middle Name</label>
+                @Html.TextBox("MiddleName", null, new { @class = "form-control border-dark" })
+            </div>
+            <div class="col-md-4">
+                <label class="form-label fw-bold">Last Name</label>
+                @Html.TextBox("LastName", null, new { @class = "form-control border-dark" })
+                @Html.ValidationMessage("LastName", "", new { @class = "text-danger small" })
+            </div>
+            <div class="col-md-4">
+                <label class="form-label fw-bold">DOB</label>
+                @Html.TextBox("DOB", null, new { @class = "form-control border-dark", type = "date" })
+                @Html.ValidationMessage("DOB", "", new { @class = "text-danger small" })
+            </div>
+            <div class="col-md-4">
+                <label class="form-label fw-bold">Mobile</label>
+                @Html.TextBox("MobileNumber", null, new { @class = "form-control border-dark" })
+                @Html.ValidationMessage("MobileNumber", "", new { @class = "text-danger small" })
+            </div>
+            <div class="col-md-4">
+                <label class="form-label fw-bold">Salary</label>
+                @Html.TextBox("Salary", null, new { @class = "form-control border-dark" })
+                @Html.ValidationMessage("Salary", "", new { @class = "text-danger small" })
+            </div>
+            <div class="col-md-12">
+                <label class="form-label fw-bold">Address</label>
+                @Html.TextBox("Address", null, new { @class = "form-control border-dark" })
+            </div>
+        </div>
+
+        <br />
+        <button type="submit" class="btn btn-dark fw-bold px-4">Insert Record</button>
+    }
+
+</div>

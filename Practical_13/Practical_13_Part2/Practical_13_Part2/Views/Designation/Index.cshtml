@@ -1,0 +1,36 @@
+﻿@model IEnumerable<Practical_13_Part2.Models.DTOs.DesignationDto>
+
+@{
+    ViewBag.Title = "Designation List";
+}
+
+<h2 class="mb-3">Designation List</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create", null, new { @class = "btn btn-dark" })
+</p>
+
+<table class="table table-bordered table-striped">
+    <thead class="table-dark">
+        <tr>
+            <th>Id</th>
+            <th>Designation</th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.Id</td>
+                <td>@item.DesignationName</td>
+
+                <td>
+                    @Html.ActionLink("Edit", "Edit", new { id = item.Id }, new { @class = "btn btn-dark btn-sm" })
+                    @Html.ActionLink("Delete", "Delete", new { id = item.Id }, new { @class = "btn btn-dark btn-sm ms-1" })
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

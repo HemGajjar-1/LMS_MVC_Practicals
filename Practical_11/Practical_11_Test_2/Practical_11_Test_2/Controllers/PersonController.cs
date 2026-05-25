@@ -1,0 +1,68 @@
+﻿using Practical_11_Test_2.Models.Entity;
+using Practical_11_Test_2.Models.Service;
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Web;
+using System.Web.Mvc;
+
+namespace Practical_11_Test_2.Controllers
+{
+    public class PersonController : Controller
+    {
+        PersonService service = new PersonService();
+        public ActionResult Index()
+        {
+            var data = service.GetAllPersons();
+            return View(data);
+        }
+
+        // CREATE GET
+        [HttpGet]
+        public ActionResult Create()
+        {
+            return View();
+        }
+
+        // CREATE POST
+        [HttpPost]
+        public ActionResult Create(Person p)
+        {
+            p.Id = service.GetAllPersons().Count + 1;
+            service.AddPerson(p);
+            return RedirectToAction("Index");
+        }
+
+        // UPDATE GET
+        [HttpGet]
+        public ActionResult Edit(int id)
+        {
+            Person p = service.GetPerson(id);
+            return View(p);
+        }
+
+        // UPDATE POST
+        [HttpPost]
+        public ActionResult Edit(Person p)
+        {
+            service.UpdatePerson(p);
+            return RedirectToAction("Index");
+        }
+
+        //DELETE GET
+        [HttpGet]
+        public ActionResult Delete(int id)
+        {
+            Person p = service.GetPerson(id);
+            return View(p);
+        }
+
+        //DELETE POST
+        [HttpPost]
+        public ActionResult Delete(Person p)
+        {
+            service.DeletePerson(p.Id);
+            return RedirectToAction("Index");
+        }
+    }
+}

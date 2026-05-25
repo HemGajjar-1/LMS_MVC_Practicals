@@ -1,0 +1,422 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hem.gajjar\\source\\repos\\MVC_Practicals\\Practical_14\\Practical_14\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hem.gajjar\\source\\repos\\MVC_Practicals\\Practical_14\\Practical_14\\README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89AB042A-D329-4735-AD55-7F9A66EDC187}|Practical_14\\Practical_14.csproj|c:\\users\\hem.gajjar\\source\\repos\\mvc_practicals\\practical_14\\practical_14\\practical_14\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89AB042A-D329-4735-AD55-7F9A66EDC187}|Practical_14\\Practical_14.csproj|solutionrelative:practical_14\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89AB042A-D329-4735-AD55-7F9A66EDC187}|Practical_14\\Practical_14.csproj|C:\\Users\\hem.gajjar\\source\\repos\\MVC_Practicals\\Practical_14\\Practical_14\\practical_14\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{89AB042A-D329-4735-AD55-7F9A66EDC187}|Practical_14\\Practical_14.csproj|solutionrelative:practical_14\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89AB042A-D329-4735-AD55-7F9A66EDC187}|Practical_14\\Practical_14.csproj|C:\\Users\\hem.gajjar\\source\\repos\\MVC_Practicals\\Practical_14\\Practical_14\\practical_14\\views\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{89AB042A-D329-4735-AD55-7F9A66EDC187}|Practical_14\\Practical_14.csproj|solutionrelative:practical_14\\views\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89AB042A-D329-4735-AD55-7F9A66EDC187}|Practical_14\\Practical_14.csproj|C:\\Users\\hem.gajjar\\source\\repos\\MVC_Practicals\\Practical_14\\Practical_14\\practical_14\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89AB042A-D329-4735-AD55-7F9A66EDC187}|Practical_14\\Practical_14.csproj|solutionrelative:practical_14\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89AB042A-D329-4735-AD55-7F9A66EDC187}|Practical_14\\Practical_14.csproj|C:\\Users\\hem.gajjar\\source\\repos\\MVC_Practicals\\Practical_14\\Practical_14\\practical_14\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{89AB042A-D329-4735-AD55-7F9A66EDC187}|Practical_14\\Practical_14.csproj|solutionrelative:practical_14\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89AB042A-D329-4735-AD55-7F9A66EDC187}|Practical_14\\Practical_14.csproj|C:\\Users\\hem.gajjar\\source\\repos\\MVC_Practicals\\Practical_14\\Practical_14\\practical_14\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89AB042A-D329-4735-AD55-7F9A66EDC187}|Practical_14\\Practical_14.csproj|solutionrelative:practical_14\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89AB042A-D329-4735-AD55-7F9A66EDC187}|Practical_14\\Practical_14.csproj|C:\\Users\\hem.gajjar\\source\\repos\\MVC_Practicals\\Practical_14\\Practical_14\\practical_14\\views\\employee\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{89AB042A-D329-4735-AD55-7F9A66EDC187}|Practical_14\\Practical_14.csproj|solutionrelative:practical_14\\views\\employee\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89AB042A-D329-4735-AD55-7F9A66EDC187}|Practical_14\\Practical_14.csproj|C:\\Users\\hem.gajjar\\source\\repos\\MVC_Practicals\\Practical_14\\Practical_14\\practical_14\\views\\employee\\_employeelist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{89AB042A-D329-4735-AD55-7F9A66EDC187}|Practical_14\\Practical_14.csproj|solutionrelative:practical_14\\views\\employee\\_employeelist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89AB042A-D329-4735-AD55-7F9A66EDC187}|Practical_14\\Practical_14.csproj|C:\\Users\\hem.gajjar\\source\\repos\\MVC_Practicals\\Practical_14\\Practical_14\\practical_14\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{89AB042A-D329-4735-AD55-7F9A66EDC187}|Practical_14\\Practical_14.csproj|solutionrelative:practical_14\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89AB042A-D329-4735-AD55-7F9A66EDC187}|Practical_14\\Practical_14.csproj|C:\\Users\\hem.gajjar\\source\\repos\\MVC_Practicals\\Practical_14\\Practical_14\\practical_14\\models\\service\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89AB042A-D329-4735-AD55-7F9A66EDC187}|Practical_14\\Practical_14.csproj|solutionrelative:practical_14\\models\\service\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89AB042A-D329-4735-AD55-7F9A66EDC187}|Practical_14\\Practical_14.csproj|C:\\Users\\hem.gajjar\\source\\repos\\MVC_Practicals\\Practical_14\\Practical_14\\practical_14\\models\\repository\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89AB042A-D329-4735-AD55-7F9A66EDC187}|Practical_14\\Practical_14.csproj|solutionrelative:practical_14\\models\\repository\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89AB042A-D329-4735-AD55-7F9A66EDC187}|Practical_14\\Practical_14.csproj|C:\\Users\\hem.gajjar\\source\\repos\\MVC_Practicals\\Practical_14\\Practical_14\\practical_14\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89AB042A-D329-4735-AD55-7F9A66EDC187}|Practical_14\\Practical_14.csproj|solutionrelative:practical_14\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89AB042A-D329-4735-AD55-7F9A66EDC187}|Practical_14\\Practical_14.csproj|C:\\Users\\hem.gajjar\\source\\repos\\MVC_Practicals\\Practical_14\\Practical_14\\practical_14\\models\\dtos\\employeelistdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89AB042A-D329-4735-AD55-7F9A66EDC187}|Practical_14\\Practical_14.csproj|solutionrelative:practical_14\\models\\dtos\\employeelistdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89AB042A-D329-4735-AD55-7F9A66EDC187}|Practical_14\\Practical_14.csproj|C:\\Users\\hem.gajjar\\source\\repos\\MVC_Practicals\\Practical_14\\Practical_14\\practical_14\\views\\employee\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{89AB042A-D329-4735-AD55-7F9A66EDC187}|Practical_14\\Practical_14.csproj|solutionrelative:practical_14\\views\\employee\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89AB042A-D329-4735-AD55-7F9A66EDC187}|Practical_14\\Practical_14.csproj|C:\\Users\\hem.gajjar\\source\\repos\\MVC_Practicals\\Practical_14\\Practical_14\\practical_14\\views\\employee\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{89AB042A-D329-4735-AD55-7F9A66EDC187}|Practical_14\\Practical_14.csproj|solutionrelative:practical_14\\views\\employee\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89AB042A-D329-4735-AD55-7F9A66EDC187}|Practical_14\\Practical_14.csproj|C:\\Users\\hem.gajjar\\source\\repos\\MVC_Practicals\\Practical_14\\Practical_14\\practical_14\\views\\employee\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{89AB042A-D329-4735-AD55-7F9A66EDC187}|Practical_14\\Practical_14.csproj|solutionrelative:practical_14\\views\\employee\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89AB042A-D329-4735-AD55-7F9A66EDC187}|Practical_14\\Practical_14.csproj|C:\\Users\\hem.gajjar\\source\\repos\\MVC_Practicals\\Practical_14\\Practical_14\\practical_14\\models\\dtos\\employeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89AB042A-D329-4735-AD55-7F9A66EDC187}|Practical_14\\Practical_14.csproj|solutionrelative:practical_14\\models\\dtos\\employeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89AB042A-D329-4735-AD55-7F9A66EDC187}|Practical_14\\Practical_14.csproj|C:\\Users\\hem.gajjar\\source\\repos\\MVC_Practicals\\Practical_14\\Practical_14\\practical_14\\models\\data\\employeemodel.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "RelativeMoniker": "D:0:0:{89AB042A-D329-4735-AD55-7F9A66EDC187}|Practical_14\\Practical_14.csproj|solutionrelative:practical_14\\models\\data\\employeemodel.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89AB042A-D329-4735-AD55-7F9A66EDC187}|Practical_14\\Practical_14.csproj|C:\\Users\\hem.gajjar\\source\\repos\\MVC_Practicals\\Practical_14\\Practical_14\\practical_14\\models\\data\\employeemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89AB042A-D329-4735-AD55-7F9A66EDC187}|Practical_14\\Practical_14.csproj|solutionrelative:practical_14\\models\\data\\employeemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89AB042A-D329-4735-AD55-7F9A66EDC187}|Practical_14\\Practical_14.csproj|C:\\Users\\hem.gajjar\\source\\repos\\MVC_Practicals\\Practical_14\\Practical_14\\practical_14\\models\\data\\employeemodel.context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89AB042A-D329-4735-AD55-7F9A66EDC187}|Practical_14\\Practical_14.csproj|solutionrelative:practical_14\\models\\data\\employeemodel.context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89AB042A-D329-4735-AD55-7F9A66EDC187}|Practical_14\\Practical_14.csproj|C:\\Users\\hem.gajjar\\source\\repos\\MVC_Practicals\\Practical_14\\Practical_14\\practical_14\\models\\data\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89AB042A-D329-4735-AD55-7F9A66EDC187}|Practical_14\\Practical_14.csproj|solutionrelative:practical_14\\models\\data\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89AB042A-D329-4735-AD55-7F9A66EDC187}|Practical_14\\Practical_14.csproj|C:\\Users\\hem.gajjar\\source\\repos\\MVC_Practicals\\Practical_14\\Practical_14\\practical_14\\models\\data\\employeemodel.tt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{89AB042A-D329-4735-AD55-7F9A66EDC187}|Practical_14\\Practical_14.csproj|solutionrelative:practical_14\\models\\data\\employeemodel.tt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89AB042A-D329-4735-AD55-7F9A66EDC187}|Practical_14\\Practical_14.csproj|C:\\Users\\hem.gajjar\\source\\repos\\MVC_Practicals\\Practical_14\\Practical_14\\practical_14\\models\\data\\employeemodel.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89AB042A-D329-4735-AD55-7F9A66EDC187}|Practical_14\\Practical_14.csproj|solutionrelative:practical_14\\models\\data\\employeemodel.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89AB042A-D329-4735-AD55-7F9A66EDC187}|Practical_14\\Practical_14.csproj|C:\\Users\\hem.gajjar\\source\\repos\\MVC_Practicals\\Practical_14\\Practical_14\\practical_14\\models\\data\\employeemodel.context.tt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{89AB042A-D329-4735-AD55-7F9A66EDC187}|Practical_14\\Practical_14.csproj|solutionrelative:practical_14\\models\\data\\employeemodel.context.tt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 14,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "README.md",
+              "DocumentMoniker": "C:\\Users\\hem.gajjar\\source\\repos\\MVC_Practicals\\Practical_14\\Practical_14\\README.md",
+              "RelativeDocumentMoniker": "README.md",
+              "ToolTip": "C:\\Users\\hem.gajjar\\source\\repos\\MVC_Practicals\\Practical_14\\Practical_14\\README.md",
+              "RelativeToolTip": "README.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2026-05-25T04:26:45.61Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RouteConfig.cs",
+              "DocumentMoniker": "C:\\Users\\hem.gajjar\\source\\repos\\MVC_Practicals\\Practical_14\\Practical_14\\Practical_14\\App_Start\\RouteConfig.cs",
+              "RelativeDocumentMoniker": "Practical_14\\App_Start\\RouteConfig.cs",
+              "ToolTip": "C:\\Users\\hem.gajjar\\source\\repos\\MVC_Practicals\\Practical_14\\Practical_14\\Practical_14\\App_Start\\RouteConfig.cs",
+              "RelativeToolTip": "Practical_14\\App_Start\\RouteConfig.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-25T04:25:14.797Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Users\\hem.gajjar\\source\\repos\\MVC_Practicals\\Practical_14\\Practical_14\\Practical_14\\Properties\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "Practical_14\\Properties\\AssemblyInfo.cs",
+              "ToolTip": "C:\\Users\\hem.gajjar\\source\\repos\\MVC_Practicals\\Practical_14\\Practical_14\\Practical_14\\Properties\\AssemblyInfo.cs",
+              "RelativeToolTip": "Practical_14\\Properties\\AssemblyInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-25T04:25:14.805Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\hem.gajjar\\source\\repos\\MVC_Practicals\\Practical_14\\Practical_14\\Practical_14\\Views\\Web.config",
+              "RelativeDocumentMoniker": "Practical_14\\Views\\Web.config",
+              "ToolTip": "C:\\Users\\hem.gajjar\\source\\repos\\MVC_Practicals\\Practical_14\\Practical_14\\Practical_14\\Views\\Web.config",
+              "RelativeToolTip": "Practical_14\\Views\\Web.config",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2026-05-25T04:25:14.806Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\hem.gajjar\\source\\repos\\MVC_Practicals\\Practical_14\\Practical_14\\Practical_14\\Web.config",
+              "RelativeDocumentMoniker": "Practical_14\\Web.config",
+              "ToolTip": "C:\\Users\\hem.gajjar\\source\\repos\\MVC_Practicals\\Practical_14\\Practical_14\\Practical_14\\Web.config",
+              "RelativeToolTip": "Practical_14\\Web.config",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2026-05-25T04:25:14.807Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Global.asax.cs",
+              "DocumentMoniker": "C:\\Users\\hem.gajjar\\source\\repos\\MVC_Practicals\\Practical_14\\Practical_14\\Practical_14\\Global.asax.cs",
+              "RelativeDocumentMoniker": "Practical_14\\Global.asax.cs",
+              "ToolTip": "C:\\Users\\hem.gajjar\\source\\repos\\MVC_Practicals\\Practical_14\\Practical_14\\Practical_14\\Global.asax.cs",
+              "RelativeToolTip": "Practical_14\\Global.asax.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001384|",
+              "WhenOpened": "2026-05-25T04:25:14.808Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\hem.gajjar\\source\\repos\\MVC_Practicals\\Practical_14\\Practical_14\\Practical_14\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Practical_14\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\hem.gajjar\\source\\repos\\MVC_Practicals\\Practical_14\\Practical_14\\Practical_14\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Practical_14\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002242|",
+              "WhenOpened": "2026-05-25T04:25:14.808Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\hem.gajjar\\source\\repos\\MVC_Practicals\\Practical_14\\Practical_14\\Practical_14\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Practical_14\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\hem.gajjar\\source\\repos\\MVC_Practicals\\Practical_14\\Practical_14\\Practical_14\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Practical_14\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002242|",
+              "WhenOpened": "2026-05-25T04:25:14.809Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "EmployeeListDto.cs",
+              "DocumentMoniker": "C:\\Users\\hem.gajjar\\source\\repos\\MVC_Practicals\\Practical_14\\Practical_14\\Practical_14\\Models\\DTOs\\EmployeeListDto.cs",
+              "RelativeDocumentMoniker": "Practical_14\\Models\\DTOs\\EmployeeListDto.cs",
+              "ToolTip": "C:\\Users\\hem.gajjar\\source\\repos\\MVC_Practicals\\Practical_14\\Practical_14\\Practical_14\\Models\\DTOs\\EmployeeListDto.cs",
+              "RelativeToolTip": "Practical_14\\Models\\DTOs\\EmployeeListDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-25T04:25:14.81Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_EmployeeList.cshtml",
+              "DocumentMoniker": "C:\\Users\\hem.gajjar\\source\\repos\\MVC_Practicals\\Practical_14\\Practical_14\\Practical_14\\Views\\Employee\\_EmployeeList.cshtml",
+              "RelativeDocumentMoniker": "Practical_14\\Views\\Employee\\_EmployeeList.cshtml",
+              "ToolTip": "C:\\Users\\hem.gajjar\\source\\repos\\MVC_Practicals\\Practical_14\\Practical_14\\Practical_14\\Views\\Employee\\_EmployeeList.cshtml",
+              "RelativeToolTip": "Practical_14\\Views\\Employee\\_EmployeeList.cshtml",
+              "ViewState": "AgIAACkAAAAAAAAAAAAAAB0AAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002242|",
+              "WhenOpened": "2026-05-25T04:25:14.811Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\hem.gajjar\\source\\repos\\MVC_Practicals\\Practical_14\\Practical_14\\Practical_14\\Views\\Employee\\Index.cshtml",
+              "RelativeDocumentMoniker": "Practical_14\\Views\\Employee\\Index.cshtml",
+              "ToolTip": "C:\\Users\\hem.gajjar\\source\\repos\\MVC_Practicals\\Practical_14\\Practical_14\\Practical_14\\Views\\Employee\\Index.cshtml",
+              "RelativeToolTip": "Practical_14\\Views\\Employee\\Index.cshtml",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAADsAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002242|",
+              "WhenOpened": "2026-05-25T04:25:14.812Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\hem.gajjar\\source\\repos\\MVC_Practicals\\Practical_14\\Practical_14\\Practical_14\\Views\\Employee\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Practical_14\\Views\\Employee\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\hem.gajjar\\source\\repos\\MVC_Practicals\\Practical_14\\Practical_14\\Practical_14\\Views\\Employee\\Delete.cshtml",
+              "RelativeToolTip": "Practical_14\\Views\\Employee\\Delete.cshtml",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwCkAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002242|",
+              "WhenOpened": "2026-05-25T04:25:14.813Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\hem.gajjar\\source\\repos\\MVC_Practicals\\Practical_14\\Practical_14\\Practical_14\\Views\\Employee\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Practical_14\\Views\\Employee\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\hem.gajjar\\source\\repos\\MVC_Practicals\\Practical_14\\Practical_14\\Practical_14\\Views\\Employee\\Edit.cshtml",
+              "RelativeToolTip": "Practical_14\\Views\\Employee\\Edit.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAQwC4AAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002242|",
+              "WhenOpened": "2026-05-25T04:25:14.814Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\hem.gajjar\\source\\repos\\MVC_Practicals\\Practical_14\\Practical_14\\Practical_14\\Views\\Employee\\Create.cshtml",
+              "RelativeDocumentMoniker": "Practical_14\\Views\\Employee\\Create.cshtml",
+              "ToolTip": "C:\\Users\\hem.gajjar\\source\\repos\\MVC_Practicals\\Practical_14\\Practical_14\\Practical_14\\Views\\Employee\\Create.cshtml",
+              "RelativeToolTip": "Practical_14\\Views\\Employee\\Create.cshtml",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwCwAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002242|",
+              "WhenOpened": "2026-05-25T04:25:14.815Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "C:\\Users\\hem.gajjar\\source\\repos\\MVC_Practicals\\Practical_14\\Practical_14\\Practical_14\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "Practical_14\\Controllers\\EmployeeController.cs",
+              "ToolTip": "C:\\Users\\hem.gajjar\\source\\repos\\MVC_Practicals\\Practical_14\\Practical_14\\Practical_14\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "Practical_14\\Controllers\\EmployeeController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-25T04:25:14.816Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "EmployeeService.cs",
+              "DocumentMoniker": "C:\\Users\\hem.gajjar\\source\\repos\\MVC_Practicals\\Practical_14\\Practical_14\\Practical_14\\Models\\Service\\EmployeeService.cs",
+              "RelativeDocumentMoniker": "Practical_14\\Models\\Service\\EmployeeService.cs",
+              "ToolTip": "C:\\Users\\hem.gajjar\\source\\repos\\MVC_Practicals\\Practical_14\\Practical_14\\Practical_14\\Models\\Service\\EmployeeService.cs",
+              "RelativeToolTip": "Practical_14\\Models\\Service\\EmployeeService.cs",
+              "ViewState": "AgIAAGQAAAAAAAAAAAAcwGcAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-25T04:25:14.816Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "EmployeeModel.Context.cs",
+              "DocumentMoniker": "C:\\Users\\hem.gajjar\\source\\repos\\MVC_Practicals\\Practical_14\\Practical_14\\Practical_14\\Models\\Data\\EmployeeModel.Context.cs",
+              "RelativeDocumentMoniker": "Practical_14\\Models\\Data\\EmployeeModel.Context.cs",
+              "ToolTip": "C:\\Users\\hem.gajjar\\source\\repos\\MVC_Practicals\\Practical_14\\Practical_14\\Practical_14\\Models\\Data\\EmployeeModel.Context.cs",
+              "RelativeToolTip": "Practical_14\\Models\\Data\\EmployeeModel.Context.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA8AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001384|",
+              "WhenOpened": "2026-05-25T04:25:14.817Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "EmployeeModel.cs",
+              "DocumentMoniker": "C:\\Users\\hem.gajjar\\source\\repos\\MVC_Practicals\\Practical_14\\Practical_14\\Practical_14\\Models\\Data\\EmployeeModel.cs",
+              "RelativeDocumentMoniker": "Practical_14\\Models\\Data\\EmployeeModel.cs",
+              "ToolTip": "C:\\Users\\hem.gajjar\\source\\repos\\MVC_Practicals\\Practical_14\\Practical_14\\Practical_14\\Models\\Data\\EmployeeModel.cs",
+              "RelativeToolTip": "Practical_14\\Models\\Data\\EmployeeModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001384|",
+              "WhenOpened": "2026-05-25T04:25:14.818Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "EmployeeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\hem.gajjar\\source\\repos\\MVC_Practicals\\Practical_14\\Practical_14\\Practical_14\\Models\\Repository\\EmployeeRepository.cs",
+              "RelativeDocumentMoniker": "Practical_14\\Models\\Repository\\EmployeeRepository.cs",
+              "ToolTip": "C:\\Users\\hem.gajjar\\source\\repos\\MVC_Practicals\\Practical_14\\Practical_14\\Practical_14\\Models\\Repository\\EmployeeRepository.cs",
+              "RelativeToolTip": "Practical_14\\Models\\Repository\\EmployeeRepository.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAowEMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-25T04:25:14.819Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "EmployeeDto.cs",
+              "DocumentMoniker": "C:\\Users\\hem.gajjar\\source\\repos\\MVC_Practicals\\Practical_14\\Practical_14\\Practical_14\\Models\\DTOs\\EmployeeDto.cs",
+              "RelativeDocumentMoniker": "Practical_14\\Models\\DTOs\\EmployeeDto.cs",
+              "ToolTip": "C:\\Users\\hem.gajjar\\source\\repos\\MVC_Practicals\\Practical_14\\Practical_14\\Practical_14\\Models\\DTOs\\EmployeeDto.cs",
+              "RelativeToolTip": "Practical_14\\Models\\DTOs\\EmployeeDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-25T04:25:14.82Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\hem.gajjar\\source\\repos\\MVC_Practicals\\Practical_14\\Practical_14\\Practical_14\\Models\\Data\\Employee.cs",
+              "RelativeDocumentMoniker": "Practical_14\\Models\\Data\\Employee.cs",
+              "ToolTip": "C:\\Users\\hem.gajjar\\source\\repos\\MVC_Practicals\\Practical_14\\Practical_14\\Practical_14\\Models\\Data\\Employee.cs",
+              "RelativeToolTip": "Practical_14\\Models\\Data\\Employee.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001384|",
+              "WhenOpened": "2026-05-25T04:25:14.82Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "EmployeeModel.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\hem.gajjar\\source\\repos\\MVC_Practicals\\Practical_14\\Practical_14\\Practical_14\\Models\\Data\\EmployeeModel.Designer.cs",
+              "RelativeDocumentMoniker": "Practical_14\\Models\\Data\\EmployeeModel.Designer.cs",
+              "ToolTip": "C:\\Users\\hem.gajjar\\source\\repos\\MVC_Practicals\\Practical_14\\Practical_14\\Practical_14\\Models\\Data\\EmployeeModel.Designer.cs",
+              "RelativeToolTip": "Practical_14\\Models\\Data\\EmployeeModel.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001384|",
+              "WhenOpened": "2026-05-25T04:25:14.821Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "EmployeeModel.Context.tt",
+              "DocumentMoniker": "C:\\Users\\hem.gajjar\\source\\repos\\MVC_Practicals\\Practical_14\\Practical_14\\Practical_14\\Models\\Data\\EmployeeModel.Context.tt",
+              "RelativeDocumentMoniker": "Practical_14\\Models\\Data\\EmployeeModel.Context.tt",
+              "ToolTip": "C:\\Users\\hem.gajjar\\source\\repos\\MVC_Practicals\\Practical_14\\Practical_14\\Practical_14\\Models\\Data\\EmployeeModel.Context.tt",
+              "RelativeToolTip": "Practical_14\\Models\\Data\\EmployeeModel.Context.tt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001384|",
+              "WhenOpened": "2026-05-25T04:25:14.822Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "EmployeeModel.tt",
+              "DocumentMoniker": "C:\\Users\\hem.gajjar\\source\\repos\\MVC_Practicals\\Practical_14\\Practical_14\\Practical_14\\Models\\Data\\EmployeeModel.tt",
+              "RelativeDocumentMoniker": "Practical_14\\Models\\Data\\EmployeeModel.tt",
+              "ToolTip": "C:\\Users\\hem.gajjar\\source\\repos\\MVC_Practicals\\Practical_14\\Practical_14\\Practical_14\\Models\\Data\\EmployeeModel.tt",
+              "RelativeToolTip": "Practical_14\\Models\\Data\\EmployeeModel.tt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001384|",
+              "WhenOpened": "2026-05-25T04:25:14.823Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "EmployeeModel.edmx [Diagram1]",
+              "DocumentMoniker": "C:\\Users\\hem.gajjar\\source\\repos\\MVC_Practicals\\Practical_14\\Practical_14\\Practical_14\\Models\\Data\\EmployeeModel.edmx",
+              "RelativeDocumentMoniker": "Practical_14\\Models\\Data\\EmployeeModel.edmx",
+              "ToolTip": "C:\\Users\\hemga\\source\\repos\\MVC_Practicals\\Practical_14\\Practical_14\\Practical_14\\Models\\Data\\EmployeeModel.edmx [Diagram1]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\hemga\\source\\repos\\MVC_Practicals\\Practical_14\\Practical_14\\Practical_14\\Models\\Data\\EmployeeModel.edmx [Diagram1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
+              "WhenOpened": "2026-05-25T04:25:14.824Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

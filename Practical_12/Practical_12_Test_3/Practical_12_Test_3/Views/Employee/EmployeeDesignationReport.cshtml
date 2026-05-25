@@ -1,0 +1,24 @@
+﻿@model List<Practical_12_Test_3.Models.DTOs.EmployeeDesignationDto>
+
+<h2>Employee Designation Report</h2>
+
+<table class="table table-bordered">
+
+    <tr>
+        <th>First Name</th>
+        <th>Middle Name</th>
+        <th>Last Name</th>
+        <th>Designation</th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>@item.FirstName</td>
+            <td>@item.MiddleName</td>
+            <td>@item.LastName</td>
+            <td>@item.Designation</td>
+        </tr>
+    }
+
+</table>

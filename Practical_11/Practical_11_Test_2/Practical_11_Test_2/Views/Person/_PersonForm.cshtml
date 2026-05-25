@@ -1,0 +1,49 @@
+﻿
+@{
+    ViewBag.Title = "_PersonForm";
+}
+@model Practical_11_Test_2.Models.Entity.Person
+<h5 class="text-center">(Partial View)</h5>
+<div class="container">
+    <div class="row justify-content-center">
+        <div class="col-md-3">
+
+            <div class="card shadow p-4">
+
+                @using (Html.BeginForm())
+                {
+                    <div class="mb-3">
+                        <label class="form-label">Name</label>
+                        @Html.TextBoxFor(
+                            x => x.Name,
+                            new { @class = "form-control" })
+                    </div>
+
+                    <div class="mb-3">
+                        <label class="form-label">DOB</label>
+                        @Html.TextBoxFor(
+                            x => x.DOB,
+                            new
+                                 {
+                                @class = "form-control",
+                                type = "date"
+                            })
+                    </div>
+
+                    <div class="mb-3">
+                        <label class="form-label">Address</label>
+                        @Html.TextBoxFor(
+                            x => x.Address,
+                            new { @class = "form-control" })
+                    </div>
+
+                    <input type="submit"
+                           value="@(Model == null || Model.Id == 0 ? "Create" : "Update" )"
+                           class="btn btn-dark w-100" />
+                }
+
+            </div>
+
+        </div>
+    </div>
+</div>

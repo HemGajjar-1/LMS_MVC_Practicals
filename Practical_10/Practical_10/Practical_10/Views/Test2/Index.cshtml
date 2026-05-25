@@ -1,0 +1,30 @@
+﻿
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Types of ActionResult</h2>
+<div>
+    <div class="w-25">
+        @Html.ActionLink("View", "ViewDemo", "Test2", null, new { @class = "btn btn-dark btn-lg w-75 m-2" })
+    </div>
+    <div class="w-25">
+        @Html.ActionLink("Content", "ContentDemo", "Test2", null, new { @class = "btn btn-dark btn-lg w-75 m-2" })
+    </div>
+    <div class="w-25">
+        @Html.ActionLink("Json", "JsonDemo", "Test2", null, new { @class = "btn btn-dark btn-lg w-75 m-2" })
+    </div>
+    <div class="w-25">
+        @Html.ActionLink("Empty", "EmptyDemo", "Test2", null, new { @class = "btn btn-dark btn-lg w-75 m-2" })
+    </div>
+    <div class="w-25">
+        @Html.ActionLink("File", "FileDemo", "Test2", null, new { @class = "btn btn-dark btn-lg w-75 m-2" })
+    </div>
+    <div class="w-25">
+        @Html.ActionLink("RedirectResult", "RedirectResultDemo", "Test2", null, new { @class = "btn btn-dark btn-lg w-75 m-2" })
+    </div>
+    <div class="w-25">
+        @Html.ActionLink("RedirectToAction", "RedirectToActionDemo", "Test2", null, new { @class = "btn btn-dark btn-lg w-75 m-2" })
+    </div>
+</div>
+

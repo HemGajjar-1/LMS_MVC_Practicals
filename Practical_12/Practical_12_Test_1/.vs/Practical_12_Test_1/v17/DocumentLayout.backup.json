@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hemga\\source\\repos\\MVC_Practicals\\Practical_12\\Practical_12_Test_1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4D5B5EC2-DE6A-455B-AA87-4BE7E54C1A37}|Practical_12_Test_1\\Practical_12_Test_1.csproj|c:\\users\\hemga\\source\\repos\\mvc_practicals\\practical_12\\practical_12_test_1\\practical_12_test_1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4D5B5EC2-DE6A-455B-AA87-4BE7E54C1A37}|Practical_12_Test_1\\Practical_12_Test_1.csproj|solutionrelative:practical_12_test_1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D5B5EC2-DE6A-455B-AA87-4BE7E54C1A37}|Practical_12_Test_1\\Practical_12_Test_1.csproj|c:\\users\\hemga\\source\\repos\\mvc_practicals\\practical_12\\practical_12_test_1\\practical_12_test_1\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D5B5EC2-DE6A-455B-AA87-4BE7E54C1A37}|Practical_12_Test_1\\Practical_12_Test_1.csproj|solutionrelative:practical_12_test_1\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D5B5EC2-DE6A-455B-AA87-4BE7E54C1A37}|Practical_12_Test_1\\Practical_12_Test_1.csproj|c:\\users\\hemga\\source\\repos\\mvc_practicals\\practical_12\\practical_12_test_1\\practical_12_test_1\\views\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{4D5B5EC2-DE6A-455B-AA87-4BE7E54C1A37}|Practical_12_Test_1\\Practical_12_Test_1.csproj|solutionrelative:practical_12_test_1\\views\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D5B5EC2-DE6A-455B-AA87-4BE7E54C1A37}|Practical_12_Test_1\\Practical_12_Test_1.csproj|c:\\users\\hemga\\source\\repos\\mvc_practicals\\practical_12\\practical_12_test_1\\practical_12_test_1\\views\\employee\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4D5B5EC2-DE6A-455B-AA87-4BE7E54C1A37}|Practical_12_Test_1\\Practical_12_Test_1.csproj|solutionrelative:practical_12_test_1\\views\\employee\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D5B5EC2-DE6A-455B-AA87-4BE7E54C1A37}|Practical_12_Test_1\\Practical_12_Test_1.csproj|C:\\Users\\hemga\\source\\repos\\MVC_Practicals\\Practical_12\\Practical_12_Test_1\\practical_12_test_1\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D5B5EC2-DE6A-455B-AA87-4BE7E54C1A37}|Practical_12_Test_1\\Practical_12_Test_1.csproj|solutionrelative:practical_12_test_1\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D5B5EC2-DE6A-455B-AA87-4BE7E54C1A37}|Practical_12_Test_1\\Practical_12_Test_1.csproj|c:\\users\\hemga\\source\\repos\\mvc_practicals\\practical_12\\practical_12_test_1\\practical_12_test_1\\models\\service\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D5B5EC2-DE6A-455B-AA87-4BE7E54C1A37}|Practical_12_Test_1\\Practical_12_Test_1.csproj|solutionrelative:practical_12_test_1\\models\\service\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D5B5EC2-DE6A-455B-AA87-4BE7E54C1A37}|Practical_12_Test_1\\Practical_12_Test_1.csproj|c:\\users\\hemga\\source\\repos\\mvc_practicals\\practical_12\\practical_12_test_1\\practical_12_test_1\\models\\repository\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D5B5EC2-DE6A-455B-AA87-4BE7E54C1A37}|Practical_12_Test_1\\Practical_12_Test_1.csproj|solutionrelative:practical_12_test_1\\models\\repository\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D5B5EC2-DE6A-455B-AA87-4BE7E54C1A37}|Practical_12_Test_1\\Practical_12_Test_1.csproj|C:\\Users\\hemga\\source\\repos\\MVC_Practicals\\Practical_12\\Practical_12_Test_1\\practical_12_test_1\\models\\entity\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D5B5EC2-DE6A-455B-AA87-4BE7E54C1A37}|Practical_12_Test_1\\Practical_12_Test_1.csproj|solutionrelative:practical_12_test_1\\models\\entity\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D5B5EC2-DE6A-455B-AA87-4BE7E54C1A37}|Practical_12_Test_1\\Practical_12_Test_1.csproj|C:\\Users\\hemga\\source\\repos\\MVC_Practicals\\Practical_12\\Practical_12_Test_1\\practical_12_test_1\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{4D5B5EC2-DE6A-455B-AA87-4BE7E54C1A37}|Practical_12_Test_1\\Practical_12_Test_1.csproj|solutionrelative:practical_12_test_1\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 14,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\hemga\\source\\repos\\MVC_Practicals\\Practical_12\\Practical_12_Test_1\\Practical_12_Test_1\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Practical_12_Test_1\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\hemga\\source\\repos\\MVC_Practicals\\Practical_12\\Practical_12_Test_1\\Practical_12_Test_1\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Practical_12_Test_1\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABYAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-23T07:31:07.828Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RouteConfig.cs",
+              "DocumentMoniker": "C:\\Users\\hemga\\source\\repos\\MVC_Practicals\\Practical_12\\Practical_12_Test_1\\Practical_12_Test_1\\App_Start\\RouteConfig.cs",
+              "RelativeDocumentMoniker": "Practical_12_Test_1\\App_Start\\RouteConfig.cs",
+              "ToolTip": "C:\\Users\\hemga\\source\\repos\\MVC_Practicals\\Practical_12\\Practical_12_Test_1\\Practical_12_Test_1\\App_Start\\RouteConfig.cs",
+              "RelativeToolTip": "Practical_12_Test_1\\App_Start\\RouteConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-23T07:30:43.612Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\hemga\\source\\repos\\MVC_Practicals\\Practical_12\\Practical_12_Test_1\\Practical_12_Test_1\\Views\\Web.config",
+              "RelativeDocumentMoniker": "Practical_12_Test_1\\Views\\Web.config",
+              "ToolTip": "C:\\Users\\hemga\\source\\repos\\MVC_Practicals\\Practical_12\\Practical_12_Test_1\\Practical_12_Test_1\\Views\\Web.config",
+              "RelativeToolTip": "Practical_12_Test_1\\Views\\Web.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2026-05-23T07:30:36.177Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\hemga\\source\\repos\\MVC_Practicals\\Practical_12\\Practical_12_Test_1\\Practical_12_Test_1\\Views\\Employee\\Index.cshtml",
+              "RelativeDocumentMoniker": "Practical_12_Test_1\\Views\\Employee\\Index.cshtml",
+              "ToolTip": "C:\\Users\\hemga\\source\\repos\\MVC_Practicals\\Practical_12\\Practical_12_Test_1\\Practical_12_Test_1\\Views\\Employee\\Index.cshtml",
+              "RelativeToolTip": "Practical_12_Test_1\\Views\\Employee\\Index.cshtml",
+              "ViewState": "AgIAADYAAAAAAAAAAAAAAEsAAABvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-23T07:21:07.005Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EmployeeService.cs",
+              "DocumentMoniker": "C:\\Users\\hemga\\source\\repos\\MVC_Practicals\\Practical_12\\Practical_12_Test_1\\Practical_12_Test_1\\Models\\Service\\EmployeeService.cs",
+              "RelativeDocumentMoniker": "Practical_12_Test_1\\Models\\Service\\EmployeeService.cs",
+              "ToolTip": "C:\\Users\\hemga\\source\\repos\\MVC_Practicals\\Practical_12\\Practical_12_Test_1\\Practical_12_Test_1\\Models\\Service\\EmployeeService.cs",
+              "RelativeToolTip": "Practical_12_Test_1\\Models\\Service\\EmployeeService.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAgwCMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-23T07:10:37.814Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EmployeeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\hemga\\source\\repos\\MVC_Practicals\\Practical_12\\Practical_12_Test_1\\Practical_12_Test_1\\Models\\Repository\\EmployeeRepository.cs",
+              "RelativeDocumentMoniker": "Practical_12_Test_1\\Models\\Repository\\EmployeeRepository.cs",
+              "ToolTip": "C:\\Users\\hemga\\source\\repos\\MVC_Practicals\\Practical_12\\Practical_12_Test_1\\Practical_12_Test_1\\Models\\Repository\\EmployeeRepository.cs",
+              "RelativeToolTip": "Practical_12_Test_1\\Models\\Repository\\EmployeeRepository.cs",
+              "ViewState": "AgIAAEkAAAAAAAAAAAAwwGQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-23T06:44:28.525Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\hemga\\source\\repos\\MVC_Practicals\\Practical_12\\Practical_12_Test_1\\Practical_12_Test_1\\Models\\Entity\\Employee.cs",
+              "RelativeDocumentMoniker": "Practical_12_Test_1\\Models\\Entity\\Employee.cs",
+              "ToolTip": "C:\\Users\\hemga\\source\\repos\\MVC_Practicals\\Practical_12\\Practical_12_Test_1\\Practical_12_Test_1\\Models\\Entity\\Employee.cs",
+              "RelativeToolTip": "Practical_12_Test_1\\Models\\Entity\\Employee.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAYwCIAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-23T06:25:08.293Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "C:\\Users\\hemga\\source\\repos\\MVC_Practicals\\Practical_12\\Practical_12_Test_1\\Practical_12_Test_1\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "Practical_12_Test_1\\Controllers\\EmployeeController.cs",
+              "ToolTip": "C:\\Users\\hemga\\source\\repos\\MVC_Practicals\\Practical_12\\Practical_12_Test_1\\Practical_12_Test_1\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "Practical_12_Test_1\\Controllers\\EmployeeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADAAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-23T06:00:50.046Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\hemga\\source\\repos\\MVC_Practicals\\Practical_12\\Practical_12_Test_1\\Practical_12_Test_1\\Web.config",
+              "RelativeDocumentMoniker": "Practical_12_Test_1\\Web.config",
+              "ToolTip": "C:\\Users\\hemga\\source\\repos\\MVC_Practicals\\Practical_12\\Practical_12_Test_1\\Practical_12_Test_1\\Web.config",
+              "RelativeToolTip": "Practical_12_Test_1\\Web.config",
+              "ViewState": "AgIAADYAAAAAAAAAAAAAAEMAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2026-05-23T05:58:38.763Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

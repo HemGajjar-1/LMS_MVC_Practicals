@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hem.gajjar\\source\\repos\\MVC_Practicals\\Practical_10\\Practical_10\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E10BBE6F-FC3C-4115-A921-D77483C5E09A}|Practical_10\\Practical_10.csproj|c:\\users\\hem.gajjar\\source\\repos\\mvc_practicals\\practical_10\\practical_10\\practical_10\\controllers\\test4\\test4controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E10BBE6F-FC3C-4115-A921-D77483C5E09A}|Practical_10\\Practical_10.csproj|solutionrelative:practical_10\\controllers\\test4\\test4controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E10BBE6F-FC3C-4115-A921-D77483C5E09A}|Practical_10\\Practical_10.csproj|c:\\users\\hem.gajjar\\source\\repos\\mvc_practicals\\practical_10\\practical_10\\practical_10\\filters\\myexceptionfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E10BBE6F-FC3C-4115-A921-D77483C5E09A}|Practical_10\\Practical_10.csproj|solutionrelative:practical_10\\filters\\myexceptionfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E10BBE6F-FC3C-4115-A921-D77483C5E09A}|Practical_10\\Practical_10.csproj|c:\\users\\hem.gajjar\\source\\repos\\mvc_practicals\\practical_10\\practical_10\\practical_10\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E10BBE6F-FC3C-4115-A921-D77483C5E09A}|Practical_10\\Practical_10.csproj|solutionrelative:practical_10\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E10BBE6F-FC3C-4115-A921-D77483C5E09A}|Practical_10\\Practical_10.csproj|c:\\users\\hem.gajjar\\source\\repos\\mvc_practicals\\practical_10\\practical_10\\practical_10\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E10BBE6F-FC3C-4115-A921-D77483C5E09A}|Practical_10\\Practical_10.csproj|solutionrelative:practical_10\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E10BBE6F-FC3C-4115-A921-D77483C5E09A}|Practical_10\\Practical_10.csproj|c:\\users\\hem.gajjar\\source\\repos\\mvc_practicals\\practical_10\\practical_10\\practical_10\\controllers\\test3\\test3controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E10BBE6F-FC3C-4115-A921-D77483C5E09A}|Practical_10\\Practical_10.csproj|solutionrelative:practical_10\\controllers\\test3\\test3controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E10BBE6F-FC3C-4115-A921-D77483C5E09A}|Practical_10\\Practical_10.csproj|c:\\users\\hem.gajjar\\source\\repos\\mvc_practicals\\practical_10\\practical_10\\practical_10\\views\\test3\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E10BBE6F-FC3C-4115-A921-D77483C5E09A}|Practical_10\\Practical_10.csproj|solutionrelative:practical_10\\views\\test3\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Test4Controller.cs",
+              "DocumentMoniker": "C:\\Users\\hem.gajjar\\source\\repos\\MVC_Practicals\\Practical_10\\Practical_10\\Practical_10\\Controllers\\Test4\\Test4Controller.cs",
+              "RelativeDocumentMoniker": "Practical_10\\Controllers\\Test4\\Test4Controller.cs",
+              "ToolTip": "C:\\Users\\hem.gajjar\\source\\repos\\MVC_Practicals\\Practical_10\\Practical_10\\Practical_10\\Controllers\\Test4\\Test4Controller.cs",
+              "RelativeToolTip": "Practical_10\\Controllers\\Test4\\Test4Controller.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-11T13:21:34.382Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MyExceptionFilter.cs",
+              "DocumentMoniker": "C:\\Users\\hem.gajjar\\source\\repos\\MVC_Practicals\\Practical_10\\Practical_10\\Practical_10\\Filters\\MyExceptionFilter.cs",
+              "RelativeDocumentMoniker": "Practical_10\\Filters\\MyExceptionFilter.cs",
+              "ToolTip": "C:\\Users\\hem.gajjar\\source\\repos\\MVC_Practicals\\Practical_10\\Practical_10\\Practical_10\\Filters\\MyExceptionFilter.cs",
+              "RelativeToolTip": "Practical_10\\Filters\\MyExceptionFilter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-11T13:18:03.37Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\hem.gajjar\\source\\repos\\MVC_Practicals\\Practical_10\\Practical_10\\Practical_10\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Practical_10\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\hem.gajjar\\source\\repos\\MVC_Practicals\\Practical_10\\Practical_10\\Practical_10\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Practical_10\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-11T13:15:06.227Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\hem.gajjar\\source\\repos\\MVC_Practicals\\Practical_10\\Practical_10\\Practical_10\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Practical_10\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\hem.gajjar\\source\\repos\\MVC_Practicals\\Practical_10\\Practical_10\\Practical_10\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Practical_10\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-11T13:14:59.741Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\hem.gajjar\\source\\repos\\MVC_Practicals\\Practical_10\\Practical_10\\Practical_10\\Views\\Test3\\Index.cshtml",
+              "RelativeDocumentMoniker": "Practical_10\\Views\\Test3\\Index.cshtml",
+              "ToolTip": "C:\\Users\\hem.gajjar\\source\\repos\\MVC_Practicals\\Practical_10\\Practical_10\\Practical_10\\Views\\Test3\\Index.cshtml",
+              "RelativeToolTip": "Practical_10\\Views\\Test3\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-11T13:13:57.537Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Test3Controller.cs",
+              "DocumentMoniker": "C:\\Users\\hem.gajjar\\source\\repos\\MVC_Practicals\\Practical_10\\Practical_10\\Practical_10\\Controllers\\Test3\\Test3Controller.cs",
+              "RelativeDocumentMoniker": "Practical_10\\Controllers\\Test3\\Test3Controller.cs",
+              "ToolTip": "C:\\Users\\hem.gajjar\\source\\repos\\MVC_Practicals\\Practical_10\\Practical_10\\Practical_10\\Controllers\\Test3\\Test3Controller.cs",
+              "RelativeToolTip": "Practical_10\\Controllers\\Test3\\Test3Controller.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-11T13:10:40.299Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
